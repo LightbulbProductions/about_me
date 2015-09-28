@@ -94,11 +94,8 @@ button:hover {
 
 /* This is the knowledge page */
 .knowledge_background {
-<<<<<<< HEAD
-    background-image: url("//farm4.staticflickr.com/3395/3449357520_fa70f30c89_b.jpg");
-=======
+
     background-image: url("http://farm4.staticflickr.com/3395/3449357520_fa70f30c89_b.jpg");
->>>>>>> had to copy and paste from master branch
     border: 2rem solid #696969;
     background-position: center bottom;
     background-repeat: no-repeat;
@@ -122,22 +119,19 @@ button:hover {
     
 }
 
-<<<<<<< HEAD
+
 /*/* This is the happiness page */
-=======
+
 /* This is the happiness page */
->>>>>>> had to copy and paste from master branch
+
 .happiness_background {
     background-image: url("http://farm3.staticflickr.com/2828/9561386016_33b0f09084_b.jpg");
     border: 2rem solid #696969;
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-<<<<<<< HEAD
     padding: 25px;
-=======
     padding: 30px;
->>>>>>> had to copy and paste from master branch
     overflow: auto;
 }
 
@@ -147,7 +141,6 @@ button:hover {
     margin-top: 70px;
     font-size: 1.4em;
     color: #dcdcdc;
-<<<<<<< HEAD
     padding: 25px;
 }
 
@@ -160,9 +153,9 @@ button:hover {
   font-size: 1rem;
 }
 
-=======
+
     
-}
+
 
 .happiness_footer .footer {
   position: fixed;
@@ -174,4 +167,4 @@ button:hover {
   text-align: center;
   color: #FFF8DC;
 }
->>>>>>> had to copy and paste from master branch
+
